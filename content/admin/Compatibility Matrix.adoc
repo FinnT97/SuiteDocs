@@ -23,7 +23,7 @@ weight: 60
 
 | Apache |2.2, 2.4 
 
-| IIS |8, 8.5
+| IIS |8, 8.5+
 
 2+^h| Database 
 
